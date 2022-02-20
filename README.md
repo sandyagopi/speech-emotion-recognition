@@ -14,12 +14,12 @@ Various algorithms like CNN, LSTM, Bi-LSTM are tested on dataset
  In this algorithm we have used 7 hidden layers 2 drop out layers 1 batch normalization and max pooling layers are used for the construction. 
 This proved to give a better performance than the current system 
 
-2. Long-Short Term Memory - LSTM 
+2.Long-Short Term Memory - LSTM 
  In this algorithm 8 hidden layers 2 drop out layers, 2 batch normalization and 2 max pooling layers are used for the construction. 
-This proved to give a better performance than the current system and has predicted the appropriate emotion. 
+ This proved to give a better performance than the current system and has predicted the appropriate emotion. 
 
-3. Bidirectional long-short term memory (bi-lstm) 
+3.Bidirectional long-short term memory (bi-lstm) 
  In this algorithm We have used 7 hidden layers 2 drop out layers, batch normalization and 1 max pooling layers are used for the building the model. 
-This proved to give less accuracy than other two algorithms. 
+ This proved to give less accuracy than other two algorithms. 
 
 
